@@ -1,0 +1,74 @@
+/* ***********************************************
+hashtag 50 "testdata_1_mod.csv" "test_ouput"
+*********************************************** */
+
+gameinsight	241
+TFBJP	208
+mtvhottest	164
+TeamFollowBack	124
+androidgames	114
+android	104
+ipadgames	89
+RT	86
+MTVHottest	81
+ipad	78
+oomf	78
+HITFOLLOWSTEAM	67
+RETWEET	66
+MentionPeopleWhoYouNeverForget	66
+SougoFollow	64
+IdBeLyingIfISaid	62
+THF	52
+SmurfsVillage	51
+luke5sosplayps3withmichael	51
+AugustWish	50
+
+/* ***********************************************
+user 50 "testdata_1_mod.csv" "test_ouput"
+*********************************************** */
+Calum5SOS	1190
+Michael5SOS	824
+Luke5SOS	771
+Ashton5SOS	762
+JaiBrooks1	529
+justinbieber	490
+luke_brooks	415
+Drake	365
+NiallOfficial	361
+5SOS	215
+Harry_Styles	187
+YouTube	186
+AustinMahone	181
+zaynmalik	110
+ColonelBieber	98
+JManziel2	83
+shanedawson	77
+henrylau89	74
+HitFollowsJp	74
+AlfredoFlores	73
+LOHANTHONY	72
+TweetLikeAGirI	70
+SergioRazta	57
+James_Yammouni	57
+bowdowngomez	56
+Real_Liam_Payne	55
+BrooksBeau	51
+Louis_Tomlinson	50
+
+/* ***********************************************
+tweet 50 "testdata_1_mod.csv" "test_ouput"
+*********************************************** */
+362822570367660032	194
+362816249966755840	112
+362818878876811264	110
+362826142798983169	88
+362817423134560256	84
+362814934674980864	74
+362817370579935232	66
+
+/* ***********************************************
+    Let me know if you recieved the same values
+*********************************************** */
+List of those who recieved same values
+1. 
+2. 
